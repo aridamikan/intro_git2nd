@@ -1,2 +1,4 @@
 今度は行けてほしい
 ほんまに
+git add
+git commit
